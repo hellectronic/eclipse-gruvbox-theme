@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="99999991" name="Gruvbox Light Geo" modified="2017-03-02 23:00:00" author="George" website="https://github.com/hellectronic/eclipse-gruvbox-theme">
+    <!--
+    dark0_hard  = #1d2021
+    dark0       = #282828   fg0
+    dark0_soft  = #32302f
+    dark1       = #3c3836   fg1...
+    dark2       = #504945
+    dark3       = #665c54
+    dark4       = #7c6f64
+    dark4_256   = #7c6f64
+
+    gray_244    = #928374
+
+    light0_hard = #f9f5d7
+    light0      = #fbf1c7   bg0
+    light0_soft = #f2e5bc
+    light1      = #ebdbb2   bg1...
+    light2      = #d5c4a1
+    light3      = #bdae93
+    light4      = #a89984
+    light4_256  = #a89984
+
+    bright_red     = #fb4934
+    bright_green   = #b8bb26
+    bright_yellow  = #fabd2f
+    bright_blue    = #83a598
+    bright_purple  = #d3869b
+    bright_aqua    = #8ec07c
+    bright_orange  = #fe8019
+
+    neutral_red    = #cc241d
+    neutral_green  = #98971a
+    neutral_yellow = #d79921
+    neutral_blue   = #458588
+    neutral_purple = #b16286
+    neutral_aqua   = #689d6a
+    neutral_orange = #d65d0e
+
+    faded_red      = #9d0006
+    faded_green    = #79740e
+    faded_yellow   = #b57614
+    faded_blue     = #076678
+    faded_purple   = #8f3f71
+    faded_aqua     = #427b58
+    faded_orange   = #af3a03
+    -->
+
+
+
+    <searchResultIndication color="#928374" />
+    <filteredSearchResultIndication color="#928374" />
+    <occurrenceIndication color="#d5c4a1" />
+    <writeOccurrenceIndication color="#d5c4a1" />
+    <findScope color="#928374" />
+    <deletionIndication color="#928374" />
+    <sourceHoverBackground color="#f2e5bc" />
+
+
+    <localVariable color="#076678" />
+    <method color="#79740e" bold="true" />
+    <localVariableDeclaration color="#076678" bold="false" />
+    <parameterVariable color="#076678" />
+    <methodDeclaration color="#504945" />
+    <field color="#076678" />
+
+    <string color="#79740e" />
+    <number color="#8f3f71" />
+
+    <constant color="#8f3f71" />
+    <enum color="#427b58" />
+    <staticMethod color="#79740e" />
+    <staticField color="#af3a03" />
+    <staticFinalField color="#af3a03" bold="false" />
+    <inheritedMethod color="#504945" />
+    <abstractMethod color="#504945" />
+    <deprecatedMember color="#504945" />
+
+    <keyword color="#9d0006" bold="false" />
+
+    <operator color="#af3a03" bold="false" /> <!-- oder orange -->
+
+    <class color="#b57614" />
+    <interface color="#b57614" />
+    <typeArgument color="#79740e" />
+    <typeParameter color="#b57614" />
+
+    <bracket color="#a89984" />
+    <annotation color="#a89984" />
+    <multiLineComment color="#928374" italic="true" />
+    <singleLineComment color="#928374" italic="true" />
+    <commentTaskTag color="#928374" italic="true" />
+    <javadoc color="#928374" italic="true" />
+    <javadocLink color="#928374" underline="false" strikethrough="false" />
+    <javadocTag color="#427b58" />
+    <javadocKeyword color="#928374" />
+
+    <lineNumber color="#d5c4a1" />
+
+
+    <foreground color="#3c3836" />
+    <currentLine color="#ebdbb2" />
+    <background color="#f9f5d7" />
+
+    <selectionBackground color="#d5c4a1" />
+    <selectionForeground color="#f9f5d7" />
+
+</colorTheme>
